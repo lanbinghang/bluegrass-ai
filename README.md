@@ -1,20 +1,20 @@
-# 老兰 · AI 与全栈开发
+# 蓝草 · Bluegrass AI
 
 **用 AI 和工程经验，把想法做成可用的产品。**
 
-你好，我是老兰，有十年程序开发经验，关注全栈开发、AI 落地交付与部署运维。这里集中展示我的个人门户、产品入口和实践记录。
+你好，我是蓝草，有十年程序开发经验，关注全栈开发、AI 落地交付与部署运维。这里集中展示我的个人门户、产品入口和实践记录。
 
 ## 访问入口
 
-**[打开老兰 AI 门户 →](https://laolan-ai.pages.dev/)**
+**[打开蓝草 AI 门户 →](https://bluegrass-ai.pages.dev/)**
 
 | 内容 | 地址 |
 | --- | --- |
-| 个人门户 | [laolan-ai.pages.dev](https://laolan-ai.pages.dev/) |
-| AI 解决方案 | [应用开发、知识处理与自动化](https://laolan-ai.pages.dev/solutions.html) |
-| 产品与案例 | [查看作品与进展](https://laolan-ai.pages.dev/projects.html) |
-| 老兰手记 | [按主题与时间浏览](https://laolan-ai.pages.dev/notes.html) |
-| 关于与联系 | [了解老兰、讨论需求](https://laolan-ai.pages.dev/about.html#contact) |
+| 个人门户 | [bluegrass-ai.pages.dev](https://bluegrass-ai.pages.dev/) |
+| AI 解决方案 | [应用开发、知识处理与自动化](https://bluegrass-ai.pages.dev/solutions.html) |
+| 产品与案例 | [查看作品与进展](https://bluegrass-ai.pages.dev/projects.html) |
+| 蓝草手记 | [按主题与时间浏览](https://bluegrass-ai.pages.dev/notes.html) |
+| 关于与联系 | [了解蓝草、讨论需求](https://bluegrass-ai.pages.dev/about.html#contact) |
 
 ## 可以一起做什么
 
@@ -27,12 +27,12 @@
 
 | 项目 | 介绍 | 当前状态 |
 | --- | --- | --- |
-| 老兰个人门户 | AI 解决方案、产品与案例、老兰手记、关于与联系 | 已上线 |
+| 蓝草个人门户 | AI 解决方案、产品与案例、蓝草手记、关于与联系 | 已上线 |
 | Developer Studio | 组织个人门户、文章草稿、视频分镜和发布记录的工作台 | 本地原型，尚无公开应用入口 |
 
-老兰手记记录开发实践、AI 探索、名词解释和排查过程，支持按主题与年月浏览。产品准备好后，会在这里补充介绍和使用入口。
+蓝草手记记录开发实践、AI 探索、名词解释和排查过程，支持按主题与年月浏览。产品准备好后，会在这里补充介绍和使用入口。
 
-## 联系老兰
+## 联系蓝草
 
 **邮箱：[245537714@qq.com](mailto:245537714@qq.com) · 邮件必回**
 
